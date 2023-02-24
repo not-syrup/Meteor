@@ -1,0 +1,4 @@
+name: Meteor
+version: '${project.version}'
+main: com.syrup.meteor.Meteor
+api-version: 1.19
